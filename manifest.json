@@ -4,6 +4,12 @@
   "name": "Numérique, pas digital",
   "version": "1.0",
 
+  "applications": {
+    "gecko": {
+      "id": "numerique-pas-digital@axel.leroy.sh"
+    }
+  },
+
   "content_scripts": [
     {
       "matches": ["<all_urls>"],
