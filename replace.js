@@ -23,6 +23,8 @@ function format(origin, replacement) {
 
 var map = new Map();
 map.set("digitalisation", "numérisation");
+map.set("digitaliser", "numériser");
+map.set("digitalisé", "numérisé");
 map.set("digitale", "numérique");
 map.set("digital", "numérique");
 map.set("crypter", "chiffrer");
