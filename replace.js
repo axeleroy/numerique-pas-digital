@@ -27,6 +27,7 @@ map.set("digitaliser", "numériser");
 map.set("digitalisé", "numérisé");
 map.set("digitale", "numérique");
 map.set("digital", "numérique");
+map.set("digitaux", "numériques");
 map.set("crypter", "chiffrer");
 map.set("cryptée", "chiffrée");
 map.set("crypté", "chiffré");
