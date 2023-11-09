@@ -3,9 +3,13 @@
  
 ## Utilisation
 ### Firefox
-Un [paquet XPI est disponible](https://github.com/axeleroy/numerique-pas-digital/releases/latest), il suffit de l'ouvrir avec Firefox pour installer l'extension.
+L'extenstion est disponible sur [Firefox Add-ons](https://addons.mozilla.org/addon/num%C3%A9rique-pas-digital/).
+
+Alternativement, vous pouvez soit
+
+* Télécharcher le [paquet XPI](https://github.com/axeleroy/numerique-pas-digital/releases/latest) et l'ouvrir dans Firefox pour installer.
  
-Alternativement, vous pouvez l'[installer depuis les sources de manière temporaire](https://developer.mozilla.org/fr/Add-ons/WebExtensions/installation_temporaire_dans_Firefox) (jusqu'à l'extinction de Firefox) depuis
+ * Télécharger les sources et [installer l'extension de manière temporaire](https://developer.mozilla.org/fr/Add-ons/WebExtensions/installation_temporaire_dans_Firefox) (jusqu'à l'extinction de Firefox) depuis
 `about:debugging`. Depuis cette page, cliquez sur "Charger un module temporaire" et sélectionnez le fichier
 `manifest.json`.
 
