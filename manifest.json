@@ -2,11 +2,11 @@
 
   "manifest_version": 2,
   "name": "Numérique, pas digital",
-  "version": "1.0.2",
+  "version": "1.0.3",
 
   "applications": {
     "gecko": {
-      "id": "numerique-pas-digital@axel.leroy.sh"
+      "id": "numerique-pas-digital-public@axel.leroy.sh"
     }
   },
 
